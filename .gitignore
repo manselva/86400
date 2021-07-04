@@ -1,0 +1,15 @@
+## Java
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+## Maven
+target/
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws

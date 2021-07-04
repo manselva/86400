@@ -1,0 +1,7 @@
+URL,https://www.ebay.com.au/
+uri,https://petstore.swagger.io/v2/
+key,special-key
+statusEndPoint,pet/findByStatus
+petEndPoint,pet/{id}
+name,petAutomatedName
+status,pending
