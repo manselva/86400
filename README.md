@@ -17,5 +17,5 @@ Git Hub Url # https://github.com/manselva/86400.git
 Execution steps,
 
 1) Clone or the download the zip folder extract it and open it using Intelij or Eclipse.
-2) In command line do a mvn clean compile
-3) mvn test
+2) In command line do a "mvn clean compile"
+3) To run,  "mvn test"
